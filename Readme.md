@@ -1,5 +1,5 @@
 # 💫About Me :
-Nothing to see here 😁
+Yep, Nothing to see here 😁
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/febrianto-kristian-221893237) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/febrian_xyz) 

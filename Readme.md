@@ -17,6 +17,14 @@
   </table>
 
 </div>
+
+---
+
 ### 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/fkrndev/fkrndev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/fkrndev/fkrndev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<div align="center">
+
+  ![GitHub Snake Light](https://github.com/fkrndev/fkrndev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake Dark](https://github.com/fkrndev/fkrndev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>

@@ -1,1 +1,1 @@
-[![Febri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkrndev)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Snake Dark](https://github.com/fkrndev/fkrndev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
